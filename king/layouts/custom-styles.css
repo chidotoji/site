@@ -1,0 +1,61 @@
+/* Typography
+--------------------------*/
+/* ------CustomCSS------ */
+.ad-area {
+
+border:2px dashed #ccd6dd;
+background-image: url(https://wordpress.kingthemes.net/main/wp-content/uploads/headafter.png);
+background-repeat:repeat-y;
+background-position:15%;
+padding:30px;
+border-radius:4px;
+font-size:18px;
+text-align:center;
+}
+.king-night .ad-area {
+border-color:#303030;
+}
+.list-item-media .instagram-media {
+    height:700px !important;
+}/* ------body------ */
+/* ------header------ */
+/* ------footer------ */
+/* ------sidebar------ */
+/* ------PostPage------ */
+/* ------KingflixPage------ */
+
+.king-profile-badge .Unlimited_Badges {
+	background-image: url();
+}
+
+.king-profile-badge .Points_Badge_lvl1 {
+	background-image: url();
+}
+.king-profile-badge .Points_Badge_lvl2 {
+	background-image: url();
+}
+.king-profile-badge .Points_Badge_lvl3 {
+	background-image: url();
+}
+.king-profile-badge .Followed_Accounts {
+	background-image: url();
+}
+.king-profile-badge .Top_Commenter_lvl1 {
+	background-image: url();
+}
+.king-profile-badge .Top_Commenter_lvl2 {
+	background-image: url();
+}
+.king-profile-badge .Top_Commenter_lvl3 {
+	background-image: url();
+}
+.king-profile-badge .Post_Creator_lvl1 {
+	background-image: url();
+}
+.king-profile-badge .Post_Creator_lvl2 {
+	background-image: url();
+}
+.king-profile-badge .Post_Creator_lvl3 {
+	background-image: url();
+}
+
